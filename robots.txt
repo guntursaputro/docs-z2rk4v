@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-p4mrq3.qrmarket42.com/sitemap.xml
